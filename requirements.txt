@@ -1,1 +1,2 @@
 pywin32==300
+python-dotenv>=0.19.2
